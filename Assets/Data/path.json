@@ -1,0 +1,33 @@
+{
+    "Question0": {
+        "__type": "MyJsonDictionaryOfstringanyType:#DefaultNamespace",
+        "okula": 2,
+        "ben": 1,
+        "gittim": 3
+    },
+    "Question1": {
+
+        "__type": "MyJsonDictionaryOfstringanyType:#DefaultNamespace",
+        "gideceğimi": 4,
+        "zaman": 2,
+        "bilmiyorum": 5,
+        "ne": 1,
+        "eve": 3,
+        "solved": false
+    },
+    "Question2": {
+
+        "__type": "MyJsonDictionaryOfstringanyType:#DefaultNamespace",
+        "nerede": "1",
+        "olduğumu": "2",
+        "bilmiyorum": "3",
+        "solved": false
+    },
+    "Question3": {
+        
+        "__type": "MyJsonDictionaryOfstringanyType:#DefaultNamespace",
+        "alple": "1",
+        "gittim": "3",
+        "sinemaya": "2",
+        "solved": false
+    }}
